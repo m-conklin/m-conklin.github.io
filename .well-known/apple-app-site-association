@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ 9D544Q67Y6.com.swiftly.Sprys ],
+             "appIDs": [ "9D544Q67Y6.com.swiftly.Sprys" ],
              "components": [
                {
                   "/": "*",
