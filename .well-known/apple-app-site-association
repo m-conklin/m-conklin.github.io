@@ -73,7 +73,8 @@
                   "comment": ""
                },
                {
-                  "/": "/search?q=*",
+                  "/": "/search",
+                  "?": "q": "?*",
                   "comment": ""
                },
                {
