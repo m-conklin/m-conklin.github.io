@@ -1,7 +1,7 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.swiftly.dierbergs.dev",
-               "sha256_cert_fingerprints": ["5E:C3:43:87:F0:62:28:68:A1:C1:01:A5:E4:06:FF:87:B1:FB:BD:F9:99:9D:D0:48:44:2D:39:1D:D3:B8:FA:AA", "90:BA:F2:DB:48:12:30:4B:E7:2D:73:21:69:1E:14:CE:9A:8E:A7:71:5E:F7:9F:20:56:0D:F1:89:22:27:CE:82"] }
+               "sha256_cert_fingerprints": ["90:BA:F2:DB:48:12:30:4B:E7:2D:73:21:69:1E:14:CE:9A:8E:A7:71:5E:F7:9F:20:56:0D:F1:89:22:27:CE:82"] }
 },
 {
   "relation": ["delegate_permission/common.handle_all_urls"],
