@@ -61,6 +61,14 @@
                   "comment": ""
                },
                {
+                  "/": "/home/challenge",
+                  "comment": ""
+               },
+               {
+                  "/": "/home/challenge/challengedetailpage/*",
+                  "comment": ""
+               },
+               {
                   "/": "/loyalty/redeemed",
                   "comment": ""
                },
