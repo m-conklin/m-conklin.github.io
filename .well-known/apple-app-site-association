@@ -2,7 +2,12 @@
   "applinks": {
       "details": [
            {
-             "appIDs": [ "9D544Q67Y6.com.swiftly.Sprys" ],
+             "appIDs": [ 
+                "9D544Q67Y6.com.swiftly.Sprys",
+                "9D544Q67Y6.com.swiftly.dierbergs.dev",
+                "9D544Q67Y6.com.swiftly.dierbergs.ppe",
+                "9D544Q67Y6.com.swiftly.dierbergs.prod"
+              ],
              "components": [
                {
                   "/": "/home",
