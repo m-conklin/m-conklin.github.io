@@ -1,105 +1,20 @@
 {
   "applinks": {
-      "details": [
-           {
-             "appIDs": [ 
-                "9D544Q67Y6.com.swiftly.Sprys",
-                "9D544Q67Y6.com.swiftly.dierbergs.dev",
-                "9D544Q67Y6.com.swiftly.dierbergs.ppe",
-                "9D544Q67Y6.com.swiftly.dierbergs.prod"
-              ],
-             "components": [
-               {
-                  "/": "/home",
-                  "comment": ""
-               },
-               {
-                  "/": "/home/brandlandingpage/*",
-                  "comment": ""
-               },
-               {
-                  "/": "/home/offer/detail/*",
-                  "comment": ""
-               },
-               {
-                  "/": "/home/offer/category/*",
-                  "comment": ""
-               },
-               {
-                  "/": "/home/flyer/*",
-                  "comment": ""
-               },
-               {
-                  "/": "/home/store/*",
-                  "comment": ""
-               },
-               {
-                  "/": "/home/flyer",
-                  "comment": ""
-               },
-               {
-                  "/": "/home/store",
-                  "comment": ""
-               },
-               {
-                  "/": "/home/cashback/detail/*",
-                  "comment": ""
-               },
-               {
-                  "/": "/home/product/detail/*",
-                  "comment": ""
-               },
-               {
-                  "/": "/home/product/category/*",
-                  "comment": ""
-               },
-               {
-                  "/": "/home/inbox",
-                  "comment": ""
-               },
-               {
-                  "/": "/loyalty",
-                  "comment": ""
-               },
-               {
-                  "/": "/loyalty/clipped",
-                  "comment": ""
-               },
-               {
-                  "/": "/home/challenge",
-                  "comment": ""
-               },
-               {
-                  "/": "/home/challenge/challengedetailpage/*",
-                  "comment": ""
-               },
-               {
-                  "/": "/loyalty/redeemed",
-                  "comment": ""
-               },
-               {
-                  "/": "/shoppinglist",
-                  "comment": ""
-               },
-               {
-                  "/": "/productscan",
-                  "comment": ""
-               },
-               {
-                  "/": "/search",
-                  "?": { "q": "?*" },
-                  "comment": ""
-               },
-               {
-                  "/": "/account",
-                  "comment": ""
-               },
-               {
-                  "/": "/account/profile",
-                  "comment": ""
-               }
-             ]
-           }
-       ]
-   }
+    "details": [
+      {
+        "appIDs": [
+          "9D544Q67Y6.com.swiftly.Sprys",
+          "9D544Q67Y6.com.swiftly.dierbergs.dev",
+          "9D544Q67Y6.com.swiftly.dierbergs.ppe",
+          "9D544Q67Y6.com.swiftly.dierbergs.prod"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": ""
+          }
+        ]
+      }
+    ]
+  }
 }
